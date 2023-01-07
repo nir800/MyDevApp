@@ -1,0 +1,1 @@
+[{"device":"nir1","ip ":"1.1.1.1","location":"tlv","role":"plc","mac":"11:11:11:22:22:22"},{"device":"nir2","ip ":"1.1.1.2","location":"hfa","role":"sensor ","mac":"21:11:11:22:22:22"},{"device":"nir3","ip ":"1.1.2.3","location":"jrs","role":"computer","mac":"31:11:11:22:22:22"}]
